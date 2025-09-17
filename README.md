@@ -139,8 +139,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devilwonder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/devilwonder?style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=devilwonder&label=Profile%20views&color=00D4FF&style=for-the-badge" alt="Profile Views" />  <img src="https://img.shields.io/github/followers/devilwonder?label=Followers&style=for-the-badge&color=00D4FF&logo=github" alt="GitHub Followers" /> <img src="https://img.shields.io/github/stars/devilwonder?label=Total%20Stars&style=for-the-badge&color=00D4FF&logo=github" alt="Total Stars" />
 </div>
 
 <div align="center">
@@ -152,6 +151,7 @@
 <div align="center">
   <strong>✨ "I merge technology and intelligence to build impactful digital products." ✨</strong>
 </div>
+
 
 
 

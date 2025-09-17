@@ -39,58 +39,36 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 🎨 Visual Stats Dashboard
+## 📊 GitHub Profile Stats
 
 <div align="center">
-  
-### 📊 **Live GitHub Metrics**
-  
-<img src="https://komarev.com/ghpvc/?username=devilwonder&label=👀%20Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/devilwonder?label=👥%20Followers&style=for-the-badge&color=00D4FF" alt="GitHub Followers" />
-<img src="https://img.shields.io/github/stars/devilwonder?label=⭐%20Total%20Stars&style=for-the-badge&color=00D4FF" alt="Total Stars" />
-
-### 🔥 **Activity Heatmap**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devilwonder&theme=tokyonight&hide_border=true&custom_title=Contribution%20Graph&cache_seconds=86400" alt="Contribution Graph" />
-
-### 🎯 **Achievement Showcase**
-
-<div align="center">
-  
-| 🏆 **Achievements** | 📈 **Numbers** | 🎨 **Visual** |
-|:---:|:---:|:---:|
-| **Repositories** | **15+** | 📦 |
-| **Languages** | **TypeScript 49%** | 💻 |
-| **Projects** | **8+ Featured** | 🚀 |
-| **Experience** | **5+ Years** | ⏰ |
-| **Education** | **M.Tech CS** | 🎓 |
-| **Publications** | **4+ Papers** | 📖 |
-| **Clients** | **15+ Projects** | 💼 |
-| **Location** | **Noida, India** | 🌍 |
-| **Focus** | **AI/ML & IoT** | 🤖 |
-  
+  <img src="https://komarev.com/ghpvc/?username=devilwonder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/devilwonder?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/devilwonder?label=Total%20Stars&style=social" alt="Total Stars" />
 </div>
 
-### 🌟 **Skill Level Indicators**
+## 🔥 Activity Overview
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilwonder&theme=tokyonight&hide_border=true&custom_title=Contribution%20Graph&cache_seconds=86400" alt="Contribution Graph" />
+</div>
+
+## 🎯 Professional Stats
 
 <div align="center">
   
-**Frontend Development**  
-![Progress](https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react)
-![Progress](https://img.shields.io/badge/Next.js-Expert-000000?style=for-the-badge&logo=next.js)
-![Progress](https://img.shields.io/badge/TypeScript-Expert-007ACC?style=for-the-badge&logo=typescript)
-
-**Backend Development**  
-![Progress](https://img.shields.io/badge/Node.js-Advanced-43853D?style=for-the-badge&logo=node.js)
-![Progress](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python)
-![Progress](https://img.shields.io/badge/Django-Advanced-092E20?style=for-the-badge&logo=django)
-
-**AI & Machine Learning**  
-![Progress](https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=for-the-badge&logo=tensorflow)
-![Progress](https://img.shields.io/badge/OpenAI-Expert-412991?style=for-the-badge&logo=openai)
-![Progress](https://img.shields.io/badge/Computer%20Vision-Intermediate-4285F4?style=for-the-badge&logo=google)
-
-</div>
+| **Category** | **Achievement** |
+|--------------|-----------------|
+| 🏆 **Total Repositories** | 15+ |
+| 📊 **Primary Languages** | TypeScript (49%), HTML (37%), CSS (11%) |
+| 🚀 **Featured Projects** | 8+ |
+| 📈 **Experience** | 5+ Years |
+| 🎓 **Education** | M.Tech (Computer Science) |
+| 📖 **Publications** | 4+ Research Papers |
+| 💼 **Client Projects** | 15+ with 25%+ repeat business |
+| 🏅 **Academic Role** | Former Assistant Professor |
+| 🌍 **Location** | Noida, India |
+| 🔬 **Research Focus** | AI/ML, IoT, Cybersecurity |
   
 </div>
 

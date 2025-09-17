@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Pratik Pandey    <img src="https://komarev.com/ghpvc/?username=devilwonder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />  <img src="https://img.shields.io/github/followers/devilwonder?label=Followers&style=social" alt="GitHub Followers" />    <img src="https://img.shields.io/github/stars/devilwonder?label=Total%10Stars&style=social" alt="Total Stars" />
+# 👋 Hey there, I'm Pratik Pandey    <img src="https://komarev.com/ghpvc/?username=devilwonder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />  <img src="https://img.shields.io/github/followers/devilwonder?label=Followers&style=social" alt="GitHub Followers" />    <img src="https://img.shields.io/github/stars/devilwonder?label=Total%20Stars&style=social" alt="Total Stars" />
  
  
 
@@ -153,6 +153,7 @@
 <div align="center">
   <strong>✨ "I merge technology and intelligence to build impactful digital products." ✨</strong>
 </div>
+
 
 
 

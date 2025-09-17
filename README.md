@@ -39,37 +39,36 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Profile Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devilwonder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilwonder&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=devilwonder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/devilwonder?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/devilwonder?label=Total%20Stars&style=social" alt="Total Stars" />
 </div>
 
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devilwonder&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
-</div>
-
-## 📈 Contribution Graph
+## 🔥 Activity Overview
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilwonder&theme=tokyonight&hide_border=true&custom_title=Contribution%20Graph&cache_seconds=86400" alt="Contribution Graph" />
 </div>
 
-## 🎯 Quick Stats
+## 🎯 Professional Stats
 
 <div align="center">
   
-| **Metric** | **Value** |
-|------------|-----------|
+| **Category** | **Achievement** |
+|--------------|-----------------|
 | 🏆 **Total Repositories** | 15+ |
-| 📊 **Languages Used** | TypeScript, Python, JavaScript, HTML, CSS |
-| 🚀 **Active Projects** | 8+ |
+| 📊 **Primary Languages** | TypeScript (49%), HTML (37%), CSS (11%) |
+| 🚀 **Featured Projects** | 8+ |
 | 📈 **Experience** | 5+ Years |
-| 🎓 **Education** | M.Tech (CS) |
-| 📖 **Publications** | 4+ |
+| 🎓 **Education** | M.Tech (Computer Science) |
+| 📖 **Publications** | 4+ Research Papers |
+| 💼 **Client Projects** | 15+ with 25%+ repeat business |
+| 🏅 **Academic Role** | Former Assistant Professor |
+| 🌍 **Location** | Noida, India |
+| 🔬 **Research Focus** | AI/ML, IoT, Cybersecurity |
   
 </div>
 

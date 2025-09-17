@@ -42,20 +42,35 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devilwonder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=3600" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilwonder&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devilwonder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilwonder&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devilwonder&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devilwonder&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilwonder&theme=tokyonight&hide_border=true&custom_title=Contribution%20Graph&cache_seconds=3600" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilwonder&theme=tokyonight&hide_border=true&custom_title=Contribution%20Graph&cache_seconds=86400" alt="Contribution Graph" />
+</div>
+
+## 🎯 Quick Stats
+
+<div align="center">
+  
+| **Metric** | **Value** |
+|------------|-----------|
+| 🏆 **Total Repositories** | 15+ |
+| 📊 **Languages Used** | TypeScript, Python, JavaScript, HTML, CSS |
+| 🚀 **Active Projects** | 8+ |
+| 📈 **Experience** | 5+ Years |
+| 🎓 **Education** | M.Tech (CS) |
+| 📖 **Publications** | 4+ |
+  
 </div>
 
 ## 🚀 Featured Projects

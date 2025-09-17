@@ -42,14 +42,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devilwonder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilwonder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devilwonder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=3600" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilwonder&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Top Languages" />
 </div>
 
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devilwonder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devilwonder&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Streak" />
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilwonder&theme=tokyonight&hide_border=true&custom_title=Contribution%20Graph&cache_seconds=3600" alt="Contribution Graph" />
 </div>
 
 ## 🚀 Featured Projects
@@ -67,9 +73,26 @@
 
 <div align="center">
   <a href="https://github.com/devilwonder/pratik-pandey">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devilwonder&repo=pratik-pandey&theme=tokyonight&hide_border=true" alt="Portfolio Repository" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devilwonder&repo=pratik-pandey&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Portfolio Repository" />
   </a>
 </div>
+
+## 🎯 Portfolio Highlights
+
+<div align="center">
+  <a href="https://pratikdev.tech" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-pratikdev.tech-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio" />
+  </a>
+</div>
+
+### 🚀 **Live Portfolio Features:**
+- 🎾 **Interactive 3D Models** with physics simulation
+- 🎨 **Multi-Color Matrix** background animations  
+- 🤖 **AI-Powered Contact Form** with sentiment analysis
+- 📊 **Real-time Visitor Counter** with analytics
+- 🔍 **SEO Optimized** for better search ranking
+- 📱 **Responsive Design** for all devices
+- ⚡ **Performance Optimized** with Next.js 14
 
 ## 📖 Publications
 

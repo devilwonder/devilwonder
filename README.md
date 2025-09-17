@@ -1,83 +1,87 @@
-# Hi there! I'm Pratik Pandey 👋
+# 👋 Hey there, I'm Pratik Pandey  
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;3D+Visualization+Expert;Open+Source+Contributor" alt="Typing SVG" />
-</div>
-
-## 🚀 About Me
-
-I'm a passionate **Full Stack Developer** and **AI Enthusiast** with a love for creating innovative web experiences. I specialize in modern web technologies and enjoy building interactive 3D applications, AI-powered solutions, and performance-optimized web applications.
-
-- 🔭 Currently working on **AI-powered web applications** and **3D visualization projects**
-- 🌱 Learning **Advanced AI/ML techniques** and **Web3 technologies**
-- 👯 Looking to collaborate on **open source projects** and **AI research**
-- 💬 Ask me about **React**, **Next.js**, **Three.js**, **AI/ML**, or **Web Development**
-- ⚡ Fun fact: I can make 3D models bounce like balls! 🎾
-
-## 🛠️ Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
-### Backend & AI
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devilwonder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilwonder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devilwonder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🎮 Fun Projects
-
-- 🎾 **Bouncing 3D Models** - Interactive physics simulations
-- 🎨 **Multi-Color Matrix** - Dynamic background animations
-- 🤖 **AI Chatbots** - Intelligent conversation systems
-- 📊 **Real-time Analytics** - Live data visualization
-
-## 🌟 Featured Repository
-
-<div align="center">
-  <a href="https://github.com/devilwonder/pratik-pandey">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devilwonder&repo=pratik-pandey&theme=tokyonight&hide_border=true" alt="Portfolio Repository" />
-  </a>
-</div>
-
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="https://pratikdev.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/pratikpandey" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:pratikpandey@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+💻 **Freelancer | MERN Stack Developer | AI & ML Enthusiast | Former Assistant Professor**  
+🌍 Based in Noida, India | 5+ years of experience in **full-stack development, QA testing, and applied AI**  
+⚡ Passionate about creating **scalable apps, AI-driven solutions, and automation tools**  
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devilwonder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/devilwonder?style=social" alt="GitHub Followers" />
-</div>
+## 🛠️ Tech Arsenal  
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Happy+Coding!+🚀" alt="Typing SVG" />
-</div>
+**Languages & Frameworks:**  
+`Python` • `JavaScript (ES6+)` • `TypeScript` • `Node.js` • `React.js` • `Django & DRF` • `Express.js` • `MongoDB` • `SQL`  
+
+**Architecture & Patterns:**  
+Clean Architecture • SOLID • Hexagonal • Onion • Dependency Injection • DRY • HOCs • Mixins • Component Reusability  
+
+**Testing & QA:**  
+Unit • Integration • Manual • API (Postman, Swagger) • Automation (Selenium) • Performance (JMeter)  
+
+**Tools & DevOps:**  
+Git • GitHub • VS Code • Jupyter • Agile • CI/CD Basics  
+
+---
+
+## 💼 Professional Journey  
+
+🔹 **Freelancer (2019 - Present)**  
+- Completed **15+ client projects** with 25%+ repeat business & referrals  
+- Boosted client visibility by **30%** through online strategies  
+- Specialized in SaaS products, AI apps, and business automation  
+
+🔹 **Assistant Professor** – *Vivekananda Global University & JECRC University*  
+- Guided **25+ research projects** → 5+ publications  
+- Led curriculum revamp → improved student satisfaction by 15%  
+- Published papers & mentored undergraduate projects  
+
+🔹 **Intern – CEERI (Image Classification using CNN)**  
+- Built deep learning models for anomaly detection on **Jetson Nano**  
+- Used **Docker** for AI/ML applications  
+
+---
+
+## 🚀 Featured Projects  
+
+- 🧾 **LaundryPOS** → POS system delivered in 30 days → **20% efficiency boost**  
+- 🧠 **Feedback Analysis System** → Local LLM + Django + FastAPI + React  
+- 🌐 **Bharat Svarga Travel Genie AI** → AI-based travel planner built in 27 days  
+- 🩸 **Blood Cell Classification** → ML models for microscopic image recognition  
+- 🚘 **Accident Detection System** → Connected vehicle safety with ML → **15% faster detection**  
+- 💧 **Kiran Purification Website** → SEO + Web dev → **30% traffic growth in 1 month**  
+- 🍔 **Food Recommendation System** → Real-time MERN + Django + AI integration  
+
+---
+
+## 📖 Publications  
+
+📘 **Book Chapter:** *Cybersecurity Strategy Using ML for IoT Attacks* (2024)  
+📄 *Pre-Assumptions for Underwater System Design* – IEEE PEEIC (2023)  
+📄 *Survey on IoT Safety: Protocols to Countermeasures* – Multidisciplinary Reviews (2024)  
+📄 *AI Recommendation System for Smart Homes* – IJISAE Journal (2024)  
+
+---
+
+## 🎓 Education  
+
+🎓 **M.Tech (Computer Science)** – Central University of Rajasthan (2023)  
+🎓 **B.Tech (Computer Science)** – Kalinga University (2020)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=devilwonder&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devilwonder&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Connect with Me  
+
+📧 **Email:** pandeypratik4@gmail.com  
+💼 **LinkedIn:** *(add your link here)*  
+🌍 **Portfolio Website:** *(soon…)*  
+🧾 **ORCID:** [0009-0002-7540-5814](https://orcid.org/0009-0002-7540-5814)  
+
+---
+
+✨ *“I merge technology and intelligence to build impactful digital products.”*  
